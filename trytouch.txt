@@ -1,4 +1,0 @@
-Created txt file with command:
-touch trytouch.txt
-
-Opened in notepad and added contents next I'll try vim
