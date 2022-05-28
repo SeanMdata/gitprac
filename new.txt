@@ -1,1 +1,2 @@
 Hello World this is Sean
+This is a place where I am practicing my GIT commands
